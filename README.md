@@ -2,7 +2,6 @@
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
 
-
 <div align="center">
   <img src="assets/logo.svg" width="60%" alt="DeepSeek AI" />
 </div>
